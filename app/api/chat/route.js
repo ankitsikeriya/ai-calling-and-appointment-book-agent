@@ -5,7 +5,7 @@ export const dynamic = "force-dynamic";
 export async function POST(req) {
   try {
     const apiKey = process.env.GOOGLE_GEMINI_API_KEY;
-    if (!apiKey) {
+    if (!apiKey) { 
       return NextResponse.json(
         { message: "Server missing GOOGLE_GEMINI_API_KEY. Add it to .env.local and restart." },
         { status: 500 }
