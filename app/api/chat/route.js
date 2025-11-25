@@ -57,7 +57,7 @@ export async function POST(req) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
-      });
+      }); 
       if (!res.ok) {
         const msg = await res.text();
         throw new Error(`Gemini error ${res.status}: ${msg}`);
