@@ -41,8 +41,8 @@ export async function POST(req) {
       if (contents.length === 0) contents.push({ role: "user", parts: [{ text }] });
 
       const payload = {
-        systemInstruction,
-        contents,
+        systemInstruction, 
+        contents, 
         generationConfig: {
           temperature: 0.6,
           topP: 0.9,
