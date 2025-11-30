@@ -12,7 +12,7 @@ export default function Home() {
               <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4 text-blue-400">
                 <path fill="currentColor" d="M12 3l7.5 18h-3.2l-1.8-4.5H9.5L7.7 21H4.5L12 3zm0 6.4l-1.7 4.1h3.4L12 9.4z" />
               </svg>
-            </div>
+            </div> 
             <span className="text-lg font-semibold tracking-tight">Vetra</span>
           </div>
           <nav className="hidden items-center gap-8 text-sm text-zinc-300 md:flex">
