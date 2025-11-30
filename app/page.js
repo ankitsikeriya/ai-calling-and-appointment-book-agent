@@ -11,7 +11,7 @@ export default function Home() {
             <div className="flex h-7 w-7 items-center justify-center rounded-md bg-blue-500/15 ring-1 ring-blue-500/30">
               <svg viewBox="0 0 24 24" aria-hidden="true" className="h-4 w-4 text-blue-400">
                 <path fill="currentColor" d="M12 3l7.5 18h-3.2l-1.8-4.5H9.5L7.7 21H4.5L12 3zm0 6.4l-1.7 4.1h3.4L12 9.4z" />
-              </svg>
+              </svg> 
             </div> 
             <span className="text-lg font-semibold tracking-tight">Vetra</span>
           </div>
