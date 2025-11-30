@@ -25,7 +25,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <a href="#" className="hidden rounded-lg border border-white/15 px-4 py-2 text-sm font-medium text-white hover:bg-white/10 md:inline-flex">
               <span className="mr-2">🎁</span> Get Started
-            </a>
+            </a> 
           </div>
         </div>
         <div className="mx-auto max-w-6xl px-6">
