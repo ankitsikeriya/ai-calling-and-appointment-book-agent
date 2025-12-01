@@ -42,7 +42,7 @@ export default function Home() {
         <h1 className="mx-auto max-w-4xl text-balance text-4xl font-semibold leading-tight tracking-[-0.02em] text-white sm:text-5xl md:text-6xl">
           Your AI health
           <br className="hidden sm:block" />
-          companion — powered
+          companion — powered 
           <br className="hidden sm:block" />
           by understanding
         </h1>
