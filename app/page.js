@@ -13,7 +13,7 @@ export default function Home() {
                 <path fill="currentColor" d="M12 3l7.5 18h-3.2l-1.8-4.5H9.5L7.7 21H4.5L12 3zm0 6.4l-1.7 4.1h3.4L12 9.4z" />
               </svg> 
             </div> 
-            <span className="text-lg font-semibold tracking-tight">Vetra</span>
+            <span className="text-lg font-semibold tracking-tight ">Vetra</span>
           </div>
           <nav className="hidden items-center gap-8 text-sm text-zinc-300 md:flex">
             <a href="#" className="hover:text-white">Services</a>
