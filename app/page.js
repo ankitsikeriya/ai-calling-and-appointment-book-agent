@@ -101,7 +101,7 @@ export default function Home() {
               <p className="mt-2 text-sm leading-6 text-zinc-400">
                 Upload your report — the assistant reads, explains, and helps you understand what it really means, in simple language.
               </p>
-              <div className="mt-4 rounded-lg bg-white/5 px-3 py-2 text-xs text-zinc-400 ring-1 ring-inset ring-white/10">
+              <div className="mt-4  rounded-lg bg-white/5 px-3 py-2 text-xs text-zinc-400 ring-1 ring-inset ring-white/10">
                 Your hemoglobin and sugar levels are normal, but your Vitamin D is slightly low
               </div>
             </div>
