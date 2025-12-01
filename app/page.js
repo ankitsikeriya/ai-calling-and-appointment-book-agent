@@ -37,7 +37,7 @@ export default function Home() {
         <div className="mb-8 inline-flex items-center rounded-full bg-white/5 px-4 py-2 text-sm text-zinc-200 ring-1 ring-white/10">
           <span className="mr-2 inline-flex h-5 w-5 items-center justify-center rounded-full bg-white/10">✨</span>
           Your AI Health Assistant is here.
-        </div>
+        </div> 
 
         <h1 className="mx-auto max-w-4xl text-balance text-4xl font-semibold leading-tight tracking-[-0.02em] text-white sm:text-5xl md:text-6xl">
           Your AI health
