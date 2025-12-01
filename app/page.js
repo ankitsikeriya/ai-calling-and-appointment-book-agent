@@ -16,7 +16,7 @@ export default function Home() {
             <span className="text-lg font-semibold tracking-tight ">Vetra</span>
           </div>
           <nav className="hidden items-center gap-8 text-sm text-zinc-300 md:flex">
-            <a href="#" className="hover:text-white">Services</a>
+            <a href="#" className="hover:text-white">Services</a> 
             <a href="#" className="hover:text-white">Assistant</a>
             <a href="#" className="hover:text-white">How it Works</a>
             <a href="#" className="hover:text-white">Log In</a>
