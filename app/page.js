@@ -1,7 +1,7 @@
 "use client";
 import VoiceWidgetButton from "./components/VoiceWidgetButton";
 import OmniWidgetMount from "./components/OmniWidgetMount";
-
+ 
 export default function Home() {
   return (
     <div className="min-h-screen bg-black text-zinc-100">
