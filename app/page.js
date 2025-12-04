@@ -20,7 +20,7 @@ export default function Home() {
             <a href="#" className="hover:text-white">Assistant</a>
             <a href="#" className="hover:text-white">How it Works</a>
             <a href="#" className="hover:text-white">Log In</a>
-            <a href="/blog" className="hover:text-white">Blog</a>
+            <a href="/blog" className="hover:text-white">Blog</a> 
           </nav>
           <div className="flex items-center gap-3">
             <a href="#" className="hidden rounded-lg border border-white/15 px-4 py-2 text-sm font-medium text-white hover:bg-white/10 md:inline-flex">
